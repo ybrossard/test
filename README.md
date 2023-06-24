@@ -10,3 +10,6 @@ git config --global init.defaultBranch main
 
 ### Vérification des paramètres de config de Git
 git config --list
+
+### Clonage du repository
+git clone https://github.com/ybrossard/test.git
