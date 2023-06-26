@@ -19,3 +19,6 @@ git rebase -i HEAD~3
 
 ### Syntaxe de base pour l’écriture et la mise en forme
 https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+### Javadoc 8
+https://docs.oracle.com/javase/8/docs/api/index.html
