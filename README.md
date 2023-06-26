@@ -1,4 +1,4 @@
-# Repository : test
+# Repository : Test
 ## URL : https://github.com/ybrossard/test
 
 ### Paramétrage de l'utilisateur
