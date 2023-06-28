@@ -15,7 +15,7 @@ public class FileAppenderYB {
 	private static final String FILE_DIR = "C:/temp/OutputFile.txt";
 	private static final DateTimeFormatter LOGS_DATE_FORMAT = DateTimeFormatter.ofPattern("dd/MM/yyyy - HH:mm:ss");
 
-	public FileAppenderYB() {
+	private FileAppenderYB() {
 	}
 
 	public static void write(String message) {
